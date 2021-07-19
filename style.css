@@ -1,0 +1,94 @@
+body {
+    font-size: 15px;
+    margin: 300px 0 auto;
+    text-align: center;
+}
+.divs{
+  
+}
+
+div{
+  display: inline-block;
+  height: 400px;
+  width: 260px;
+  margin: 0;
+  text-align: left;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+h2{
+  display: inline-block;
+  color: whitesmoke;
+  margin-left: 35px;
+  margin-bottom: 10px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+img{
+  
+  display: block;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+p{
+   color:   hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+
+  font-size: 18px;
+  height: 30px;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+
+.lmore{
+  position: relative;
+  top: 140px;
+  left: 35px;
+background-color: hsl(0, 0%, 95%);
+  border: 1px solid white;
+  text-decoration: none;
+    -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  font-size: 20px;
+    color: hsl(184, 100%, 22%);
+
+  
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;}
+.lmore:hover{
+  color: white;
+  background-color: unset;
+  
+}
+.sedans{
+  position: relative;
+  right: 260px;
+  background-color: hsl(31, 77%, 52%);
+  margin-right: 0;
+}
+
+
+.suvs{
+  position: relative;
+  bottom: 410px;
+  left: 20px;
+  background-color: hsl(184, 100%, 22%);
+  margin-left: 0;
+}
+
+
+.luxury{
+  position: relative;
+  left: 290px;
+  bottom: 820px;
+  background-color: hsl(179, 100%, 13%);
+
+  margin-left: 0;
+}
